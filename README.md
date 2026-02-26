@@ -1,6 +1,6 @@
 # 📚 PDF Download Bot — Organize seus estudos
 
-Bot em Python para baixar materiais em PDF de plataformas de cursos online. Feito por estudantes, para estudantes que querem ter os materiais organizados localmente.
+Bot em Python para baixar materiais em PDF de plataformas de cursos online. Feito por uma estudante, para estudantes que querem ter os materiais organizados localmente de forma eficiente.
 
 ## ✨ O que faz
 
