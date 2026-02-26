@@ -1,0 +1,7 @@
+cookies.txt
+pdfs/
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
